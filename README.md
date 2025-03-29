@@ -14,7 +14,7 @@ Agriculture is the backbone of many economies, yet farmers, especially in rural 
 
 # AgriQ  
 
-![Quantum Embedding](https://your-image-url.com/quantum_embedding.png)  
+![Quantum Embedding](https://github.com/harih-AI/AgriQ/blob/bb96ebefcf90948280c465842bfc39b9a4272aeb/New%20folder/WhatsApp%20Image%202025-03-29%20at%2007.12.24_34621df2.jpg)  
 
 ### 🌾 Example: Traditional vs. Quantum Embedding in Agriculture  
 #### Tamil Word: **"மண்" (Maṇ - Soil)**  

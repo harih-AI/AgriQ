@@ -30,7 +30,7 @@ Agriculture is the backbone of many economies, yet farmers, especially in rural 
   - "பாசனம்" (Irrigation) → **Moisture**  
 
 ## 💡 Solution  
-![Solution](https://your-image-url.com/solution.png)  
+![Solution](https://github.com/harih-AI/AgriQ/blob/8723cf6854dd43e43e3f839dd18ab943130b0c4f/New%20folder/WhatsApp%20Image%202025-03-29%20at%2007.12.14_d899ac98.jpg)  
 AgriQ is designed to address these challenges by offering:  
 - **Tamil Voice-Based Interaction** – Farmers can speak in Tamil to receive real-time assistance.  
 - **Large Language Model (LLM) Support** – Provides accurate agricultural recommendations.  

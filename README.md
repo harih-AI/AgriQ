@@ -1,7 +1,7 @@
 # AgriQ  
 
 ## 📌 Overview  
-![Overview](https://your-image-url.com/overview.png)  
+![Overview](https://github.com/harih-AI/AgriQ/blob/daac0cb5ec6271ec7834f9c563327fd8163a3562/New%20folder/WhatsApp%20Image%202025-03-29%20at%2007.11.58_6f4e19e1.jpg)  
 AgriQ is a Tamil voice-call-based AI assistant that leverages Tamil Large Language Models powered assistant(LLMs) and Quantum Computing embeddings to provide real-time agricultural support to farmers. Designed to overcome language barriers and improve accessibility, AgriQ delivers accurate crop insights via voice calls without requiring smartphones or internet access.  
 
 ## 🚀 Problem Statement  

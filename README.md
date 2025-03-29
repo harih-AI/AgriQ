@@ -5,7 +5,7 @@
 AgriQ is a Tamil voice-call-based AI assistant that leverages Tamil Large Language Models powered assistant(LLMs) and Quantum Computing embeddings to provide real-time agricultural support to farmers. Designed to overcome language barriers and improve accessibility, AgriQ delivers accurate crop insights via voice calls without requiring smartphones or internet access.  
 
 ## 🚀 Problem Statement  
-![Problem Statement](https://your-image-url.com/problem.png)  
+![Problem Statement](New folder/WhatsApp Image 2025-03-29 at 07.12.15_bab7f140.jpg)  
 Agriculture is the backbone of many economies, yet farmers, especially in rural areas, struggle with:  
 - Lack of real-time, accurate agricultural guidance.  
 - Language barriers limiting access to AI-based solutions.  

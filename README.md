@@ -1,1 +1,99 @@
 # AgriQ
+
+## 📌 Overview
+AgriQ is a Tamil voice-call-based AI assistant that leverages Tamil Large Language Models powered assistant(LLMs) and Quantum Computing embeddings to provide real-time agricultural support to farmers. Designed to overcome language barriers and improve accessibility, AgriQ delivers accurate crop insights via voice calls without requiring smartphones or internet access.
+
+## 🚀 Problem Statement
+Agriculture is the backbone of many economies, yet farmers, especially in rural areas, struggle with:
+- Lack of real-time, accurate agricultural guidance.
+- Language barriers limiting access to AI-based solutions.
+- Limited internet access making app-based solutions ineffective.
+- Inefficiencies in crop planning, disease detection, and market price forecasting.
+
+# AgriQ 
+
+
+### 🌾 Example: Traditional vs. Quantum Embedding in Agriculture
+#### Tamil Word: **"மண்" (Maṇ - Soil)**
+
+🔹 **Traditional Embedding**:
+- Learns that **"மண்"** is related to **"நிலம்"** (Land) and **"சேறு"** (Mud) from training data.
+- Struggles to differentiate between **"மண் வளம்" (Soil Fertility)** vs. **"மண் ஈரப்பதம்" (Soil Moisture)**.
+
+🔹 **Quantum Embedding**:
+- **Superposition**: Keeps both meanings (fertility & moisture) active **until the context is clear**.
+- **Entanglement**: Links related terms:
+  - "உரம்" (Fertilizer) → **Fertility**
+  - "பாசனம்" (Irrigation) → **Moisture**
+
+## 💡 Solution
+AgriQ is designed to address these challenges by offering:
+- **Tamil Voice-Based Interaction** – Farmers can speak in Tamil to receive real-time assistance.
+- **Large Language Model (LLM) Support** – Provides accurate agricultural recommendations.
+- **Quantum Computing Embeddings** – Enhances model efficiency and prediction accuracy.
+- **Voice Call Accessibility** – Works without an internet connection via standard phone calls.
+- **Actionable Insights** – Includes weather forecasts, soil health analysis, pest control, and market pricing updates.
+
+## ✨ Features
+✅ Tamil Language Speech Recognition & Response  
+✅ AI-driven Crop & Irrigation Recommendations  
+✅ Quantum-Enhanced Predictions for Precision Agriculture  
+✅ Accessible via Basic Phone Calls – No Internet Needed  
+✅ Real-time Weather & Market Insights  
+✅ Pest & Disease Detection with Preventive Measures  
+
+## 🛠️ Technology Stack
+- **Speech-to-Text & Text-to-Speech**: AI4Bharat-IndicConformer-STT-TA-Hybrid-CTC-RNNT-Large
+
+- **LLM Framework**: google/flan-t5-base
+- **Quantum Computing**: Qiskit / Pennylane for quantum-enhanced embeddings
+- **Cloud Infrastructure**: AWS / GCP for hosting and scaling
+- **Voice Call Service**: Twilio / Google Dialogflow
+
+## 📥 Installation & Usage
+### Prerequisites
+- Python 3.8+
+- Virtual Environment (optional but recommended)
+- Twilio API credentials (for voice calls)
+
+### Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/hari-AI/AgriQ.git
+   cd AgriQ
+   ```
+2. Create and activate a virtual environment:
+   ```bash
+   python -m venv venv
+   source venv/bin/activate   # On macOS/Linux
+   venv\Scripts\activate     # On Windows
+   ```
+3. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
+4. Set up environment variables (API keys, Twilio credentials) in a `.env` file.
+5. Run the voice-based LLM service:
+   ```bash
+   python app.py
+   ```
+
+## 📊 Future Enhancements
+🔹 Multilingual Support (Other Indian languages)  
+🔹 IoT Integration for Real-Time Farm Monitoring  
+🔹 Blockchain-Based Secure Market Pricing  
+🔹 AI-powered Chatbot for More Personalized Assistance  
+
+## 🤝 Contribution Guidelines
+We welcome contributions! To contribute:
+1. Fork the repository.
+2. Create a new branch: `git checkout -b feature-branch-name`
+3. Commit your changes: `git commit -m "Add new feature"`
+4. Push to the branch: `git push origin feature-branch-name`
+5. Open a pull request.
+
+For detailed contribution guidelines, see [CONTRIBUTING.md](CONTRIBUTING.md).
+
+## 📜 License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+

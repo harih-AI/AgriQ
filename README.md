@@ -86,6 +86,7 @@ AgriQ is designed to address these challenges by offering:
    ```  
 
 ## 📊 Future Enhancements  
+![Installation](https://github.com/harih-AI/AgriQ/blob/5adeec2c7ca4a547c285289c8ba649a6d6d50a18/New%20folder/WhatsApp%20Image%202025-03-29%20at%2007.12.14_08f047f5.jpg)
 🔹 Multilingual Support (Other Indian languages)  
 🔹 IoT Integration for Real-Time Farm Monitoring  
 🔹 Blockchain-Based Secure Market Pricing  

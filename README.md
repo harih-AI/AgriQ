@@ -39,7 +39,7 @@ AgriQ is designed to address these challenges by offering:
 - **Actionable Insights** – Includes weather forecasts, soil health analysis, pest control, and market pricing updates.  
 
 ## ✨ Features  
-![Features](https://your-image-url.com/features.png)  
+![Features](https://your-image-url.com/feat)  
 ✅ Tamil Language Speech Recognition & Response  
 ✅ AI-driven Crop & Irrigation Recommendations  
 ✅ Quantum-Enhanced Predictions for Precision Agriculture  

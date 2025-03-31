@@ -49,26 +49,6 @@ We created our own dataset by translating the **KissanVaanni Agri Dataset** into
 
 
 
-
-## ✨ Features  
-![Installation](https://github.com/harih-AI/AgriQ/blob/e1351cef07d1092e7e8ad7919a97c60a124adf15/New%20folder/WhatsApp%20Image%202025-03-29%20at%2007.31.11_5fe09dca.jpg)
-![Features](https://your-image-url.com/feat)  
-✅ Tamil Language Speech Recognition & Response  
-✅ AI-driven Crop & Irrigation Recommendations  
-✅ Quantum-Enhanced Predictions for Precision Agriculture  
-✅ Accessible via Basic Phone Calls – No Internet Needed  
-✅ Real-time Weather & Market Insights  
-✅ Pest & Disease Detection with Preventive Measures  
-
-## 🛠️ Technology Stack  
-![Technology Stack](https://your-ima
-e-url.com/technology.png)  
-- **Speech-to-Text & Text-to-Speech**: AI4Bharat-IndicConformer-STT-TA-Hybrid-CTC-RNNT-Large  
-- **LLM Framework**: google/flan-t5-base  
-- **Quantum Computing**: Qiskit / Pennylane for quantum-enhanced embeddings  
-- **Cloud Infrastructure**: AWS / GCP for hosting and scaling  
-- **Voice Call Service**: Twilio / Google Dialogflow  
-
 ## 📥 Installation & Usage  
 ![Installation](https://your-image-url.com/installation.png)  
 

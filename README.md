@@ -98,7 +98,4 @@ For detailed contribution guidelines, see [CONTRIBUTING.md](CONTRIBUTING.md).
 ## 📜 License  
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.  
 
----
-
-Now you can just replace `"https://your-image-url.com/..."` with actual image links. Let me know if you need any changes! 🚀
 
